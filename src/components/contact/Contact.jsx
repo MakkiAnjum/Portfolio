@@ -23,7 +23,7 @@ const Contact = () => {
             <div data-aos="zoom-in">
               <h1 className="text-5xl font-bold sm:text-3xl">You Need</h1>
               <h3 className="text-xl sm:text-lg">
-                Want a Beautiful website for your business? leave a request
+                a Beautiful website for your business? leave a request
               </h3>
             </div>
           </div>
