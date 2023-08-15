@@ -67,18 +67,14 @@ const Skills = ({ darkMode }) => {
             <div className="first2 flex flex-col gap-10">
               <SkillBox
                 className=""
-                logo={
-                  <SiNextdotjs className=" text-white bg-black rounded-full h-fit border-white overflow-hidden" />
-                }
+                logo={<SiNextdotjs />}
                 black={'white'}
                 white={'black'}
                 skill={'Next Js'}
               />
               <SkillBox
                 className=""
-                logo={
-                  <SiReact className=" text-white bg-black rounded-full h-fit border-white overflow-hidden" />
-                }
+                logo={<SiReact />}
                 black={'white'}
                 white={'black'}
                 skill={'React Js'}
@@ -87,18 +83,14 @@ const Skills = ({ darkMode }) => {
             <div className="last2 flex flex-col gap-10">
               <SkillBox
                 className=""
-                logo={
-                  <SiJavascript className=" text-white bg-black rounded-full h-fit border-white overflow-hidden" />
-                }
+                logo={<SiJavascript />}
                 black={'black'}
                 white={'white'}
                 skill={'JavaScript'}
               />
               <SkillBox
                 className=""
-                logo={
-                  <SiTypescript className=" text-white bg-black rounded-full h-fit border-white overflow-hidden" />
-                }
+                logo={<SiTypescript />}
                 black={'black'}
                 white={'white'}
                 skill={'TypeScript'}
@@ -107,18 +99,14 @@ const Skills = ({ darkMode }) => {
             <div className="first2 flex flex-col gap-10">
               <SkillBox
                 className=""
-                logo={
-                  <FaAws className=" text-white bg-black rounded-full h-fit border-white overflow-hidden" />
-                }
+                logo={<FaAws />}
                 black={'white'}
                 white={'black'}
                 skill={'AWS'}
               />
               <SkillBox
                 className=""
-                logo={
-                  <SiGit className=" text-white bg-black rounded-full h-fit border-white overflow-hidden" />
-                }
+                logo={<SiGit />}
                 black={'white'}
                 white={'black'}
                 skill={'Git'}
@@ -127,18 +115,14 @@ const Skills = ({ darkMode }) => {
             <div className="last2 flex flex-col gap-10">
               <SkillBox
                 className=""
-                logo={
-                  <SiMysql className=" text-white bg-black rounded-full h-fit border-white overflow-hidden" />
-                }
+                logo={<SiMysql />}
                 black={'black'}
                 white={'white'}
                 skill={'SQL'}
               />
               <SkillBox
                 className=""
-                logo={
-                  <SiHtml5 className=" text-white bg-black rounded-full h-fit border-white overflow-hidden" />
-                }
+                logo={<SiHtml5 />}
                 black={'black'}
                 white={'white'}
                 skill={'HTML CSS'}
